@@ -2,7 +2,7 @@
 title_left    : "Mineral Existence"
 title_right   : ""
 description   : "A blog of programming, rambling, and miscellaneous thoughts"
-intro         : "Hello there! Thanks for stopping by! I'm Ben, and this is my blog where I ramble about projects I'm working on, ideas I have, and other miscellaneous bits and bobs"
+intro         : "Hello there! I'm Ben, and this is my blog where I ramble about projects I'm working on, ideas I have, and other miscellaneous bits and bobs"
 keywords      : "blog, programming, gamedev, procgen"
 url           : https://flber.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
