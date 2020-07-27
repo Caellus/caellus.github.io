@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Mineral Existence"
 title_right   : ""
-description   : "A blog of programming, rambling, and miscellaneous thoughts"
+description   : "A blog of programming, gamedev, and eclecticism"
 intro         : "Hello there! I'm Ben, and this is my blog where I ramble about projects I'm working on, ideas I have, and other miscellaneous bits and bobs"
 keywords      : "blog, programming, gamedev, procgen"
 url           : https://flber.github.io # site url
