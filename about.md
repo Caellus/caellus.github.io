@@ -18,4 +18,4 @@ Hi! My name is Ben, and I'm an occasional game dev and enjoyer of roguelikes, cu
 
 ### Contact me
 
-Feel free to say hi on twitter or my [email](mailto:benrhammond@gmail.com)
+Feel free to say hi on [twitter](https://twitter.com/flbr14) or my [email](mailto:benrhammond@gmail.com)
