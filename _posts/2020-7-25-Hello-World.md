@@ -3,6 +3,7 @@ layout: post
 title: First post!
 description: "First post on the blog!"
 keywords: "hello"
+comments: true
 ---
 
 This is really just a test for me of Jekyll, so hello world!

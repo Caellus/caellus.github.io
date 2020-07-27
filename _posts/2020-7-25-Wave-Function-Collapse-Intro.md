@@ -3,6 +3,7 @@ layout: post
 title: An Introduction to the Wave Function Collapse Algorithm
 description: "Post 1 on the WFC algorithm."
 keywords: "proc gen, quantum mechanics, game dev"
+comments: true
 ---
 
 You may or may not already be familiar with the wave function collapse algorithm (wfc from now on), but if you're not, here's a brief overview.

@@ -10,8 +10,8 @@ cover         : "https://github.com/flber.png" # image uri like logo/cover image
 
 google_analytics  : UA-173547026-1
 twitter_username  : "flbr14"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "flber-github-io"
 postshare_enabled : false
 
 # Build settings
