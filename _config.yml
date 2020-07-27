@@ -5,7 +5,7 @@ description   : "A blog of programming, rambling, and miscellaneous thoughts"
 keywords      : "blog, programming, gamedev, procgen"
 url           : https://flber.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "https://github.com/flber.png" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "flbr14"
