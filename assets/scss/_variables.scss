@@ -18,9 +18,9 @@ $base-z-index: 0;
 
 // Colors
 $primary-color: #657c9e;  // Dark blue
-$action-color: #ff00ff;
+$action-color: $primary-color;
 $white-color: #fbfbfb;    // Very light grey
-$black-color: #00ffff;
+$black-color: #ff00ff;  // not used?
 $blue-color: #6ba1f4; //Light blue
 $dark-gray-color: #737980;
 $medium-gray-color: #b55b5b;  //medium red
