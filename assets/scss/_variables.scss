@@ -17,13 +17,13 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$primary-color: #ff00ff;//657c9e
-$action-color: #b55b5b;
+$primary-color: #657c9e;
+$action-color: $primary-color;
 $white-color: #fbfbfb;
 $black-color: #657c9e;
 $blue-color: #6ba1f4;
 $dark-gray-color: #979fa8;
-$medium-gray-color: #bec1c4;
+$medium-gray-color: #b55b5b;
 $light-gray-color: #c9ccce;
 
 // Font Colors
