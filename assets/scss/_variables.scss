@@ -21,11 +21,11 @@ $base-z-index: 0;
   $primary-color: var(--f_high);  // Dark blue
   $action-color: $primary-color;
   $white-color: var(--background);    // Very light grey
-  $black-color: #ff00ff;  // not used?
+  $black-color: var(--f_inv);  // not used?
   $blue-color: var(--f_low); //Light blue
-  $dark-gray-color: #ff0000;
+  $dark-gray-color: var(--f_inv);
   $medium-gray-color: var(--f_med);  //medium red
-  $light-gray-color: #00ff00;
+  $light-gray-color: var(--f_inv);
 }
 
 // Font Colors
