@@ -17,14 +17,14 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$primary-color: #657c9e;  // Dark blue
+$primary-color: var(--f_high);  // Dark blue
 $action-color: $primary-color;
-$white-color: #fbfbfb;    // Very light grey
+$white-color: var(--background);    // Very light grey
 $black-color: #ff00ff;  // not used?
-$blue-color: #6ba1f4; //Light blue
-$dark-gray-color: #737980;
-$medium-gray-color: #b55b5b;  //medium red
-$light-gray-color: #c9ccce;
+$blue-color: var(--f_low); //Light blue
+$dark-gray-color: #ff0000;
+$medium-gray-color: var(--f_med);  //medium red
+$light-gray-color: #00ff00;
 
 // Font Colors
 $base-font-color: rgba($dark-gray-color, .8);
