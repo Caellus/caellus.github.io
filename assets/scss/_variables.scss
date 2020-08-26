@@ -17,9 +17,9 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
-$primary-color: #ff00ff;  // Dark blue
+$primary-color: #ff00ff;  // not used on its own
 $action-color: #ffffff; // title color, post name color (on main page), disqus username color
-$white-color: #222222;    // Very light grey
+$white-color: #ff00ff;    // Very light grey
 $black-color: #ff00ff;  // not used?
 $blue-color: #cccccc; //Light blue
 $dark-gray-color: #999999;
@@ -27,14 +27,14 @@ $medium-gray-color: #cccccc;  //medium red
 $light-gray-color: #cccccc; // #ff00ff;
 
 // Font Colors
-$base-font-color: #00ffff; // rgba($primary-color, .8);
+$base-font-color: #cccccc; // blog description, years, text in posts, "Comments" header
 
 // Border
 $base-border-color: $light-gray-color;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: $white-color;
+$base-background-color: #00ffff; // $white-color;
 $secondary-background-color: tint($base-border-color, 80%);
 
 // Forms
