@@ -231,7 +231,7 @@ hr {
   small {
     display: block;
     font-size: rem(12);
-    color: darken($light-gray-color, 10%);
+    color: lighten($light-gray-color, 15%);
   }
 
   .block {
