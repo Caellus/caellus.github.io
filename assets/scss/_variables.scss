@@ -18,7 +18,7 @@ $base-z-index: 0;
 
 // Colors
 :root {
-  $primary-color: var(--f_high);  // Dark blue
+  $primary-color: --f_high;  // Dark blue
   $action-color: $primary-color;
   $white-color: var(--background);    // Very light grey
   $black-color: var(--f_inv);  // not used?
