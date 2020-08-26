@@ -211,7 +211,7 @@ hr {
 }
 
 .disqus {
-  background-color: lighten($light-gray-color, 16%);
+  background-color: $light-gray-color;
   padding: $base-spacing 0;
 
   hr {
