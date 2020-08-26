@@ -8,7 +8,7 @@ url           : https://flber.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "https://github.com/flber.png" # image uri like logo/cover image for site seo
 
-# the update comma:  (remove or add to force site update)
+# the update comma: , (remove or add to force site update)
 
 google_analytics  : UA-173547026-1
 twitter_username  : "flbr14"
