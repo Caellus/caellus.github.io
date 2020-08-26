@@ -18,7 +18,7 @@ $base-z-index: 0;
 
 // Colors
 $primary-color: #ffffff;  // Dark blue
-$action-color: $primary-color;
+$action-color: #ff00ff; //$primary-color;
 $white-color: #222222;    // Very light grey
 $black-color: #ff00ff;  // not used?
 $blue-color: #cccccc; //Light blue
@@ -35,7 +35,7 @@ $base-border: 1px solid $base-border-color;
 
 // Background Colors
 $base-background-color: $white-color;
-$secondary-background-color: #ff00ff; // tint($base-border-color, 80%);
+$secondary-background-color: tint($base-border-color, 80%);
 
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba($black-color, 0.06);
