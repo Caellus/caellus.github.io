@@ -21,17 +21,17 @@ $primary-color: #ff00ff; // not used on its own
 $action-color: #ffffff; // title color, post name color (on main page), disqus username color
 $white-color: #ff00ff; // Very light grey
 $black-color: #ff00ff; // not used?
-$blue-color: #ddddff; // links and underlines
+$blue-color: #ccccff; // links and underlines
 $dark-gray-color: #999999; // post titles in posts
-$medium-gray-color: #777777; // dates
-$light-gray-color: #ff00ff; // #ff00ff;
+$medium-gray-color: #ffcccc; // dates
+$light-gray-color: #cccccc; // comments background, horizontal line at top, footer, mobile post boxes
 
 // Font Colors
 $base-font-color: #cccccc; // blog description, years, text in posts, "Comments" header
 
 // Border
-$base-border-color: #00ffff; // $light-gray-color;
-$base-border: 1px solid $base-border-color;
+$base-border-color: #ff00ff; // $light-gray-color;
+$base-border: #00ffff; // 1px solid $base-border-color;
 
 // Background Colors
 $base-background-color: #222222; // background color (not for comments)
