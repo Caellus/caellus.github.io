@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WFC: The Tile Generator
+title: WFC Tile Generator
 description: "Post 3 on the WFC algorithm."
 keywords: "proc gen, quantum mechanics, game dev"
 comments: true
