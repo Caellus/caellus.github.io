@@ -6,7 +6,7 @@ keywords: "proc gen, quantum mechanics, game dev"
 comments: true
 ---
 
-The propagator (and the constructor system) is probably the most often misunderstood part of the wfc algorithm. The basic idea is that its a way to easily access the adjacency data generated in the tile generation stage. The propagator constructor generates four lists of booleans (one list for each side of the tile) for every tile, where each boolean corresponds to whether or not a tile can go in the adjacent location which the list is describing. Now that's a lot of words, so let's see how it looks.
+The propagator (and the constructor system) is probably the most often misunderstood part of the wfc algorithm. The basic idea is that it's a way to easily access the adjacency data generated in the tile generation stage. The propagator constructor generates four lists of booleans (one list for each side of the tile) for every tile, where each boolean corresponds to whether or not a tile can go in the adjacent location which the list is describing. Now that's a lot of words, so let's see how it looks.
 
 Lets just focus on a simple example. Here are our tiles
 
@@ -34,27 +34,24 @@ Now I promised some actual code, so here you go!
 
 ```lua
 for i = 1, #wfc.tiles do    -- go through all tiles
-  debug:write("- tile " .. i .." (id: " .. wfc.tiles[i].id .. ")\n")
   local currentTile = wfc.tiles[i]    -- get current tile
   local tileAdjacency = {}    -- make a new adjacency table
 
   tileAdjacency.top = {}    -- list of possible tiles above
   for j = 1, #wfc.tiles do    -- check other tiles
     local checkTile = wfc.tiles[j]
-    -- debug:write("-- " .. checkTile.color.bottom .." == " .. currentTile.color.top .. "\n")
     if checkTile.color.bottom == currentTile.color.top then
       tileAdjacency.top[j] = true
-      debug:write("--- ↑ tile #" .. j .." (id: " .. wfc.tiles[j].id .. ")\n")
     else tileAdjacency.top[j] = false end
   end
-  ... -- bottom, left, and right adjacency setting goes here, but it's a bit redundant
+  ... -- bottom, left, and right adjacencies go here, but it's a bit redundant
   table.insert(wfc.adjacencyIndex, tileAdjacency)
 end
 ```
 
 Let's break that up, shall we?
 
-First of all, we're going through the list of tiles we made in the tile generation phase (see [this](2020-8-27-WFC-Tile-Generator.md) article for a description of how that works):
+First of all, we're going through the list of tiles we made in the tile generation phase (see [this](_posts/2020-8-27-WFC-Tile-Generator.md) article for a description of how that works):
 ```lua
 for i = 1, #wfc.tiles do
 ```
@@ -71,7 +68,7 @@ tileAdjacency.top = {}
 for j = 1, #wfc.tiles do
 ```
 
-Now we create a local "checkTile" variable to store the tile we're looking at to see if it can go above, and check if the color data of the bottom of that tile is the same as the color data of the top of our current tile
+Now we create a local "checkTile" variable to store the tile we're looking at, and check if the color data of the bottom of that tile is the same as the color data of the top of our current tile
 ```lua
 local checkTile = wfc.tiles[j]
 if checkTile.color.bottom == currentTile.color.top then
