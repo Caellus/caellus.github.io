@@ -51,7 +51,7 @@ end
 
 Let's break that up, shall we?
 
-First of all, we're going through the list of tiles we made in the tile generation phase (see [this](2020-8-27-WFC-Tile-Generator.md) article for a description of how that works):
+First of all, we're going through the list of tiles we made in the tile generation phase (see [this](https://flber.github.io/2020/WFC-Tile-Generator/) article for a description of how that works):
 ```lua
 for i = 1, #wfc.tiles do
 ```
