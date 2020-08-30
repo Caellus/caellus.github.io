@@ -15,6 +15,7 @@ Hi! My name is Ben, and I'm an occasional game dev and enjoyer of roguelikes, cu
 - [Streets of Rogue](https://streetsofrogue.com/)
 - [Mandagon](https://blindsky.itch.io/mandagon)
 
+[Here's](https://github.com/flber/flber.github.io) the source code for this site
 
 ### Contact me
 
