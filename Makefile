@@ -5,8 +5,8 @@ all: $(OUTPUT)
 
 _output/%.html: _pages/%.md templates/header.html
 	touch $@
-	cat templates/header.html > $@
-	./render.sh $< >> $@
+	@cat templates/header.html > $@
+	@./render.sh $< >> $@
 
 .PHONY: clean
 clean:
