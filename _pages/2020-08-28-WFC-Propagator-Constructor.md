@@ -32,7 +32,7 @@ For example, if we wanted to see if tile B could go above tile A we would get th
 
 Now I promised some actual code, so here you go!
 
-```lua
+```
 for i = 1, #wfc.tiles do    -- go through all tiles
   local currentTile = wfc.tiles[i]    -- get current tile
   local tileAdjacency = {}    -- make a new adjacency table
@@ -52,40 +52,40 @@ end
 Let's break that up, shall we?
 
 First of all, we're going through the list of tiles we made in the tile generation phase (see [this](https://flber.github.io/2020/WFC-Tile-Generator/) article for a description of how that works):
-```lua
+```
 for i = 1, #wfc.tiles do
 ```
 
 Then, we set a local variable to the tile we're checking, and make a new "tileAdjacency" table which will store the top, bottom, left, and right adjacency information:
-```lua
+```
 local currentTile = wfc.tiles[i]
 local tileAdjacency = {}
 ```
 
 We add a table called "top" to the "tileAdjacency" table, which will store the top adjacency data, and then start to loop through the list of tiles again:
-```lua
+```
 tileAdjacency.top = {}
 for j = 1, #wfc.tiles do
 ```
 
 Now we create a local "checkTile" variable to store the tile we're looking at, and check if the color data of the bottom of that tile is the same as the color data of the top of our current tile
-```lua
+```
 local checkTile = wfc.tiles[j]
 if checkTile.color.bottom == currentTile.color.top then
 ```
 
 If it is, then we know that it can go above the current tile. To save that, we set the "top" tile adjacency at the index of that tile to true
-```lua
+```
 tileAdjacency.top[j] = true
 ```
 
 But if the colors aren't the same, then we set the "top" tile adjacency to false
-```lua
+```
 else tileAdjacency.top[j] = false end
 ```
 
 With the "top" tile adjacency constructed we move onto the bottom, left, and right adjacencies (which I'll skip over because they're the same as the top one), and then we can finally add all of those in the form of the tileAdjacency variable to the overall adjacencyIndex table.
-```lua
+```
 table.insert(wfc.adjacencyIndex, tileAdjacency)
 ```
 
