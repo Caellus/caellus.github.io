@@ -9,8 +9,8 @@ title: About
   --highlight: hsl(0, 1%, 50%);
 }
   body {
-  background-image: url(Coffeecup.jpeg);
-  background-size: 70em;
+  background-image: url(coffee!.jpeg);
+  background-size: 100em;
 }
 </style>
 
