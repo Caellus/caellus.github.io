@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/zsh
 
 echo $(pandoc $1)
