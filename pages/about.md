@@ -26,7 +26,7 @@ Some other things you should know are simply I am not a techie person, I am good
 
 [[Here's]](https://github.com/Caellus/caellus.github.io) the source code for this site
 
-### Contact me ...
+### Contact me ... 
 
 Feel free to say hi on [[mastodon]](https://mastodon.lol/web/accounts/78714#) or my [[email]](caelginsmith@gmail.com)
 
