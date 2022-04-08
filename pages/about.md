@@ -9,7 +9,7 @@ title: About
   --highlight: hsl(10, 0%, 20%);
 }
   body {
-  background-image: url(coffeebean.jpeg);
+  background-image: url(images/coffeebean.jpeg);
   background-repeat:repeat; 
   background-size: 10em;
 }
