@@ -6,7 +6,7 @@ all: $(OUTPUT)
 docs/%.html: pages/%.md templates/header.html
 	touch $@
 	@cat templates/header.html > $@
-	@./render.sh $< >> $@
+	@./render $< >> $@
 
 .PHONY: clean
 clean:
