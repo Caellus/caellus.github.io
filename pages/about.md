@@ -6,7 +6,7 @@ title: About
   :root {
   --background: hsl(0, 1%, 50%);
   --text: #fff;
-  --highlight: hsl(0, 0%, 50%);
+  --highlight: hsl(10, 0%, 20%);
 }
   body {
   background-image: url(coffee!.jpeg);
