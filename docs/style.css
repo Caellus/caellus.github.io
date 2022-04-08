@@ -1,6 +1,7 @@
 :root {
-  --background: #060b29;
-  --text: hsl(0, 0%, 95%);
+  --favricon.ico;
+  --background: #000000;
+  --text: hsl(0, 0%, 100%);
   --highlight: hsl(0, 1%, 50%);
 }
 
@@ -9,10 +10,12 @@
   font-family: Courier, monospace;
 }
 
-body {
+>link rel="icon"href="http://example.com/favicon.png"
+
+>body {
   color: var(--text);
   /* background: var(--background); */
-  background-image: url(images/OldBooks*.jpeg);
+  background-image: url(images/Leather2.jpeg);
   background-position: center;
   background-repeat: repeat;
   /* background-size: cover;  */
