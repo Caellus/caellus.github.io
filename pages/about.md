@@ -4,7 +4,7 @@ title: About
 
 <style>
   :root {
-  --background: #fff;
+  --background: hsl(0, 1%, 50%);
   --text: #fff;
   --highlight: hsl(0, 1%, 50%);
 }
