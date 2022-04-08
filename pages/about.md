@@ -10,8 +10,8 @@ title: About
 }
   body {
   background-image: url(coffeebean.jpeg);
-  background-repeat:no-repeat; 
-  background-size:55em;
+  background-repeat:repeat; 
+  background-size: 10em;
 }
 </style>
 
