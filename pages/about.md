@@ -10,7 +10,7 @@ title: About
 }
   body {
   background-image: url(coffee!.jpeg);
-  background-size: cover;
+  background-repeat:never; 
   background-size: 80em;
 }
 </style>
