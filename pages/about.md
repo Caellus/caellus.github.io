@@ -4,7 +4,7 @@ title: About
 
 <style>
   body {
-  background-image: url(coffee!.jpeg);
+  background-image: url(woodbackground.jpeg);
 }
 </style>
 
