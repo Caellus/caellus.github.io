@@ -1,0 +1,35 @@
+:root {
+  --background: #060b29;
+  --text: hsl(0, 0%, 95%);
+  --highlight: hsl(0, 1%, 50%);
+}
+
+
+.mono {
+  font-family: Courier, monospace;
+}
+
+body {
+  color: var(--text);
+  /* background: var(--background); */
+  background-image: url(OldBooks2.jpeg);
+  background-position: center;
+  background-repeat: repeat;
+  /* background-size: cover; */
+  background-color: rgba(201, 201, 201, 0.538);
+  position: relative;
+  margin: 0 auto;
+  width: 38em;
+}
+
+a {
+  color: var(--background);
+  background: var(--text);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--background);
+  background: var(--highlight);
+
+}
