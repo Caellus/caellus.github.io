@@ -1,3 +1,3 @@
 # White Cat Grey Cat
 
-My blog, built by hand, updated occasionally.
+Built by hand but not by me, updated occasionally.
