@@ -3,6 +3,11 @@ title: About
 ---
 
 <style>
+  :root {
+  --background: #060b29;
+  --text: hsl(0, 0%, 0%);
+  --highlight: hsl(0, 1%, 50%);
+}
   body {
   background-image: url(Coffeecup.jpeg);
 }
