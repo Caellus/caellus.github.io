@@ -13,10 +13,10 @@
 body {
   color: var(--text);
   /* background: var(--background); */
-  background-image: url(images/mylibrary.jpeg);
+  background-image: url(images/parchment.jpeg);
   background-position: center;
   background-repeat: repeat;
-  /* background-size: cover;  */
+
   background-color: rgba(201, 201, 201, 0.538);
   position: relative;
   margin: 0 auto;
