@@ -4,6 +4,7 @@ title: Home
 
 ### Hello there 
 
-Thank you for visiting my humble virtual abode. This site is the third, and hopefully final, iteration of such a place, and will serve as a place for me to talk about my projects and thoughts, as well as a sort of memex in the form of the [writing ](writing.html) page. This place is inspired by Devine [[Lu Linvega's]](https://merveilles.town/@neauoire) [[XXIIVV]](https://wiki.xxiivv.com/site/home.html),
+Hi! 
+Welcome to my site. This is somewhat of an experimental space for me where I can share my [writing ](writing.html) page, as well as varioys projects and cool bits and bobs that I enjoy exploring. This place is inspired by [[Mineral Existence ]](https://mineralexistence.com) [[efelbar]](https://merveilles.town/@flbr),
 
 [cute comic](https://questionablecontent.net)
