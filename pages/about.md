@@ -15,8 +15,14 @@ title: About
 }
 </style>
 
-### Hi :3
-My name is Cat, and I'm  not an occasional game dev and *enjoyer* of roguelikes, currently learning Godot and working on a wave function collapse algorithm for texture generation (which I'm planning on talking about soon). Some of my favorite games (in no particular order) are:
+### Hi :3 
+My name is Cat, (she/her/they/ them). I am from the Bay Area however go to school on the East Coast. 
+
+I'm  not an occasional game dev and *enjoyer* of roguelikes, that said I am a writer, avid reader, student and in general just a relatively loud personality. 
+
+I enjoy various areas of curiosity whether it be science and reasoning or some wild various fantasy. I am currently a Chemistry major and an English minor. 
+
+Some other things you should know are simply I am not a techie person, I am good with books, and with people and often math but not computers so this site is primarily based on what I have learned from others, meaning if it's buggy, my appologies ... maybe I know how to fix it? XD 
 
 [[Here's]](https://github.com/Caellus/caellus.github.io) the source code for this site
 
