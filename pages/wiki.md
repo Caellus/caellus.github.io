@@ -1,6 +1,15 @@
 ---
 title: Wiki
 ---
+<style> 
+  body {
+  background-image: url(images/coffeebean.jpeg);
+  background-repeat:repeat; 
+  background-size: 10em;
+}
+</style>
+
+
 
 This is a wiki page ... at some point it will include more links to most of my work in progresses. 
 
