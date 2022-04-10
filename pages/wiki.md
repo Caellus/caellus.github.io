@@ -7,7 +7,7 @@ title: Wiki
   background-repeat:repeat; 
   background-size: 10em;
 }
-*{color:#000;}
+/* *{color:#000;} */
 </style>
 
 
