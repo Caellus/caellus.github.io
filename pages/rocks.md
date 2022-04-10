@@ -19,4 +19,4 @@ Rocks have been a curiosity of mine for as long as I can remember, and to be fai
 
 My plan in this page is both to share pictures of the rocks I have collected because they're pretty :3 
 
-But also to share bits I have learned about them whetehr in their make up or in the capacities for energ and healing. 
+But also to share bits I have learned about them whether in their make up or in the capacities for energy and healing. 
