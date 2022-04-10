@@ -3,7 +3,7 @@ title: Wiki
 ---
 <style> 
   body {
-  background-image: url(images/coffeebean_wiki.jpeg);
+  background-image: url(images/coffeeBean_wiki.jpeg);
   background-repeat:repeat; 
   background-size: 10em;
 }
