@@ -30,3 +30,4 @@ Some other things you should know are simply I am not a techie person, I am good
 
 Feel free to say hi on [[mastodon]](https://mastodon.lol/web/accounts/78714#) or my [[email]](caelginsmith@gmail.com)
 
+ 
