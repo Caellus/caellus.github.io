@@ -16,9 +16,9 @@ title: About
 </style>
 
 ### Hi :3 
-My name is Cat, (she/her/they/ them). I am from the Bay Area however go to University on the East Coast. 
+My name is Cat, (she/her/they/ them). I am from the Bay Area however go to University on the East Coast.  
 
-I'm  not an occasional game dev and *enjoyer* of roguelikes, that said I am a writer, avid reader, student and in general just a relatively loud personality. 
+I'm  not an occasional game dev and *enjoyer* of roguelikes, that said I am a writer, avid reader, student and in general just a relatively loud personality.  
 
 I enjoy various subjects whether it be science and reasoning or some wild fantasy. I am currently a Chemistry major and an English minor at Temple University. 
 
