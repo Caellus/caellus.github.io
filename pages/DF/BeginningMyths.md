@@ -47,3 +47,4 @@ Light gave them a small final mercy to protect them from her other half and all 
 Limeare banished Man to a different realm where they would not have to feel the shame of their mortality, where they could grow apart, and this how our world of man and the world of the Tehlaeya broke apart. 
 
 But this is not that story.
+
