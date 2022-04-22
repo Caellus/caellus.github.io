@@ -2,6 +2,12 @@
 title: Home
 ---
 
+<style>
+body {
+  background-image: url(images/BO.jpeg);
+}
+</style>
+
 ### Hello there  
  
 Hi
