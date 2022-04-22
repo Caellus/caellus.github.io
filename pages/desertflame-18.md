@@ -89,34 +89,32 @@ Something was howling. And cold. It was loud against her, ears, her
 skull, much much too loud.
 
 Her eyes struggled to breach the all-encompassing darkness refusing to
-recede. Felix wanted to shout at whoever had left the window open and let the
-blasted chill in, but she couldn’t move. The howling continued as breezes
-wracked against her skin. Again Felix prepared to bark at whatever imbecile to
+recede. 
+
+Felix wanted to shout at whoever had left the window open and let the blasted chill in, but she couldn’t move. The howling continued as breezes wracked against her skin. Again Felix prepared to bark at whatever imbecile to
 shut the window and let her resume her desperate sleep, but as she opened her
 mouth, only a slight whine released from her hoarse throat. Dizziness shook her
 as she attempted any movement, and it was at the moment after her mind decided
 barking at idiots was not an option did she realize she was already moving.
+
 Steady firm thumps shook her frame as airlessness soon became ground
 over and over. Nausea, a familiar friend at this point, roiled in her stomach,
 calling for an end to the intermittent thumping. Slowly other senses began to
 settle in around her, although the infernal darkness still remained as her eyes
 seemed forced to shut. Her ears prickled as warm blooms of air blew against her
-. . . was that breathing? The shallow gasps of air she was barely able to push
-down into her lungs all but stopped in anticipation as she began to realize
-something was breathing. Flashes of the dark cavern and violet scales replayed in
+. . . was that breathing? 
+
+The shallow gasps of air she was barely able to push down into her lungs all but stopped in anticipation as she began to realize
+something else was breathing. Flashes of the dark cavern and violet scales replayed in
 her mind, and worry thrummed up her throat, yet this breathing was different.
 Faster. More labored.
-Felix stilled or tried to as much as she could possibly be managed when
-constantly bouncing with each thump against the ground. She tried to block out
-the howling wind and infernal thumping of what must have been footfalls and
-79
 
-instead tried to glean anything else possible from her surroundings. It would be
-much easier to do so if her eyes would just open! She thought bitterly.
+Felix stilled or tried to as much as she could possibly be managed when constantly bouncing with each thump against the ground. She tried to block out the howling wind and infernal thumping of what must have been footfalls and instead tried to glean anything else possible from her surroundings. It would be much easier to do so if her eyes would just open! She thought bitterly.
+
 Despite her best efforts ignoring the wind remained increasingly difficult
-as each gust whipped icily against her poorly covered skin. It was too blasted
-cold to think, why in Light’s name was it so cold? Shivers wracked up and down
-her body and frustration at the continued lack of vision was eating at her insides.
+as each gust whipped icily against her poorly covered skin. 
+
+It was too blasted cold to think, why in Light’s name was it so cold? Shivers wracked up and down her body and frustration at the continued lack of vision was eating at her insides.
 
 [previous](desertflame-17.html)
 [next](desertflame-19.html)

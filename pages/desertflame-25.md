@@ -1,7 +1,7 @@
 ---
 title: Deserters Flame
 ---
-Chapter X
+Chapter X
 Felix
 For his size, he was fast. Faster than should have been possible, gods
 what was he?
