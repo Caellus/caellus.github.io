@@ -6,6 +6,9 @@ title: Home
 body {
   background-image: url(images/BO.jpeg);
     background-size: 10em;
+      background-repeat:no-repeat; 
+
+
 
 }
 </style>
