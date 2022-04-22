@@ -14,6 +14,8 @@ body {
 </style> -->
 
 ![piture of my cat](images/BO.jpeg) 
+<img style="width:10%" src="images/BO.jpeg" alt="picture of my cat" />
+
 
 ### Hello there  
  
