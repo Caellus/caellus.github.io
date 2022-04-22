@@ -27,9 +27,9 @@ The Dragons flourished, maintaining balance and ruled over Limeare's creation. A
 
 First came the Faerie, like their descendants before them, there were eight. Four males. And Four Females. 
 
-They were beautiful wild creatures who carried the blessings from the seasons and elements. They had magic and souls. They served and worshiped beneath the great beasts, the suns, and moons.
+They were beautiful wild creatures who carried the blessings from the seasons and elements. They had magic and souls. Graceful and lythe they stood as extensions of the elements, with their strong bodies, pointed ears and bonds between them. The Faerie served and worshiped beneath the great beasts, the suns, and moons, showing reverence for all that came before them.
 
-At first, they too maintained balance. But they were different than Limeare’s previous children, they created and invented, they loved one another, there's was that of passion and pleasure.
+At first, they too maintained balance. But they were different than Limeare’s previous children, they created and invented,there's was that of passion and pleasure. Both the potential for love and hate. 
 
 Yet as they grew, Darkness too bloomed, Jealous of Light's beauty in all her creations, Darkness sought to corrupt her newest heirs. So the Faerie were born the first children of both Light and Dark. Agency to choose, to be swayed. Where there was love, there was hate. Where Darkness would also flourish, Light could be born.  
 
