@@ -56,6 +56,7 @@ It was almost dusk by the time Thallan lumbered down from the mountain peak. He 
 inside clung to his icy skin. 
 
 Everyone in the village closest had felt the avalanche and those farther away who knew what to look for would have sensed the shift by now. It was getting worse and he knew it.They all did. 
+
 Hackles raised Thallan continued forward barely making eye contact with any he passed whilst also trying not to be too rude. Thallan, shot further towards his target and approached the Winterian Court capital, Paeitale home to the shimmering White Palace.
 
 [previous](desertflame-32.html)
