@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<style>
+<!-- <style>
 body {
   background-image: url(images/BO.jpeg);
     background-size: 10em;
@@ -11,7 +11,9 @@ body {
 
 
 }
-</style>
+</style> -->
+
+![glass coffeecup with coffee beans](images/BO.jpeg) 
 
 ### Hello there  
  
