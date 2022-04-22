@@ -36,6 +36,7 @@ Yet as the Faerie grew, Darkness too bloomed, Jealous of Light's beauty in all h
 Agency to choose, to be swayed. Where there was love, there was hate. The potential for both. Where Darkness would also flourish, Light could be born.  
 
 It was then the Goddess of Light and Darkness became one deity instead of two. Light had bonded with her mate. They together became the two-faced God. The parent of the Faerie. Not one complete but a mix of two. Forever the push and pull. 
+
 And then their last descendants arrived   The final creation and the worst of all … Man. 
 
 Man was even more corruptible than the Faerie of before them, more conflicted, more dynamic, more emotional, and explosive, but most of all, more mortal, frail creatures who could die from time. A disgrace. And in their shame, quickly turned to Darkness. 
