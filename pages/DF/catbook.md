@@ -6,4 +6,4 @@ title: Hidden Writing
 
 I realize it is a bit redundant to have both this and a writing tab, that said I wanted a more private destination for some of my more important works. 
 
-[Deserter's Flame](DesertersFlame.html) 
+[Deserter's Flame](BeginningMyths.html) 
