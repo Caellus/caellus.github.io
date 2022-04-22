@@ -61,6 +61,5 @@ When Felix had stepped out of her chambers wearing her own leathers none of her 
 A ridiculous sentiment coming from the male considering his normal habbits but Felix didn’t
 comment. The trio not long after left the manner for a long trek towards yet another towering mountain fortress.
 
-
 [previous](desertflame-44.html)
 [next](desertflame-46.html)
