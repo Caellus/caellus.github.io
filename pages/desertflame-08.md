@@ -102,5 +102,5 @@ For all her tries to brush everything else away to let nothing touch her, no
 matter how many walls she brought close to her heart, nothing could have
 protected her against the heartache growing, an empty void as she watched his
 
-[previous](desertflame-7.html)
-[next](desertflame-9.html)
+[previous](desertflame-07.html)
+[next](desertflame-09.html)

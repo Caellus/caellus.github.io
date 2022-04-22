@@ -102,5 +102,5 @@ A battle of wills shined between their eyes. Her throat tightened, and her
 vision blurred for a minute. Why was her vision blurring? She would not show
 weakness here. Her father’s scorn hit something deep inside. She wasn’t the son
 
-[previous](desertflame-5.html)
-[next](desertflame-7.html)
+[previous](desertflame-05.html)
+[next](desertflame-07.html)

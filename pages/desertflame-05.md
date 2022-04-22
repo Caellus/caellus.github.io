@@ -102,5 +102,5 @@ never stepped a foot outside her luxury and jeweled palace. For a time perhaps
 26
 
 
-[previous](desertflame-4.html)
-[next](desertflame-6.html)
+[previous](desertflame-04.html)
+[next](desertflame-06.html)

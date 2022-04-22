@@ -97,10 +97,10 @@ doe’s tracks and a wolf’s even if the snarling beast spat in his face. What 
 Hellae had possessed her father to pick such a lumped ass for lead Hunter?
 ”Felix? Your Father ordered you to stay behind. Bee-hind it means you
 don’t follow. It’s my responsibility to make sure you stay put and let them catch
-14
 
-their Hunt.”
+
+their Hunt.”
 She flipped to face him, her eyes wide and incredulous.
 
-[previous](desertflame-1.html)
-[next](desertflame-3.html)
+[previous](desertflame-01.html)
+[next](desertflame-03.html)

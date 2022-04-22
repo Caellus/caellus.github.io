@@ -102,5 +102,5 @@ widened. Magic this girl had elemental magic. . . it was amazing she was even
 permitted to live.
 It was a blight to let a Winterians keep their natural magic. Those with
 
-[previous](desertflame-8.html)
+[previous](desertflame-08.html)
 [next](desertflame-10.html)

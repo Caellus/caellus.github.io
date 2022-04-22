@@ -102,5 +102,5 @@ himself.
 “Sire, she’s called the council. . . all of the High Courts have been
 summoned. All are to meet at Aaphire. The Winterians . . . they’ve amassed.
 
-[previous](desertflame-9.html)
+[previous](desertflame-09.html)
 [next](desertflame-11.html)

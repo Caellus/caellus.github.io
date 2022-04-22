@@ -102,5 +102,5 @@ Her response may have been snide, but the messengers were always rude to her,
 they like her, were sick of just how frequently she was “summoned.” “It’s your
 Father, he calls for your attendance immediately.” A low huff pushed past her lips
 
-[previous](desertflame-3.html)
-[next](desertflame-5.html)
+[previous](desertflame-03.html)
+[next](desertflame-05.html)

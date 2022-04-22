@@ -102,5 +102,5 @@ into his path.
 ***
 
 
-[previous](desertflame-2.html)
-[next](desertflame-4.html)
+[previous](desertflame-02.html)
+[next](desertflame-04.html)

@@ -102,5 +102,5 @@ Cold air brushed Felix’s cheek in a gentle caress. Bellow her lay the
 encamped village nestled between the valley’s high peaks. She glanced at the
 small huts, the tavern with its thatched roof, the baker in the southern quarter,
 
-[previous](desertflame-0.html)
-[next](desertflame-2.html)
+[previous](desertflame-00.html)
+[next](desertflame-02.html)

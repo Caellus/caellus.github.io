@@ -102,5 +102,5 @@ Hundreds of Thousands of gathered all in the hopes that they could once again be
 free.
 Across the barren cold earth, their enemies stood firm. Winterian Faerie
 
-[previous](desertflame--1.html)
-[next](desertflame-1.html)
+
+[next](desertflame-01.html)

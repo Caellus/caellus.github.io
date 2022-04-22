@@ -102,5 +102,5 @@ doing what the Winterian couldn’t do in person. End what they started.”
 It seemed as if the room had significantly chilled. For a moment, the
 Winterian soldier was suddenly upon her once again. Felix has always meddled
 
-[previous](desertflame-6.html)
-[next](desertflame-8.html)
+[previous](desertflame-06.html)
+[next](desertflame-08.html)
