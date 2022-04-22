@@ -1,19 +1,8 @@
 --- 
 title: Rocks 
 ---
- <style> :root {
-  --background: hsl(0, 1%, 50%);
-  --text: #fff;
-  --highlight: hsl(10, 0%, 20%);
-}
-
-body {
-  background-image: url(images/rock.jpeg);
-  background-repeat: repeat;
-  background-size: 10em;
-}
-
-</style>
+ 
+ <img style="width:50%"src="images/coffeeglass.jpeg" alt="glass coffeecup with coffee beans" />
  
 Rocks have been a curiosity of mine for as long as I can remember, and to be fair quite a few of them are after all very pretty. But even outright appearence aside I've been really interested in their foundation, the processes in the environment that cause such different crystals. And I think in a way that beginning interest in asking why and how something forms and its make up is what lead me to my interets on Chemistry (more on that later).  
 
