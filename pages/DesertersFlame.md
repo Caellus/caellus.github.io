@@ -29,9 +29,11 @@ First came the Faerie, like their descendants before them, there were eight. Fou
 
 They were beautiful wild creatures who carried the blessings from the seasons and elements. They had magic and souls. Graceful and lythe they stood as extensions of the elements, with their strong bodies, pointed ears and bonds between them. The Faerie served and worshiped beneath the great beasts, the suns, and moons, showing reverence for all that came before them.
 
-At first, they too maintained balance. But they were different than Limeare’s previous children, they created and invented,there's was that of passion and pleasure. Both the potential for love and hate. 
+At first, they too maintained balance. But they were different than Limeare’s previous children, they created and invented,there's was that of passion and pleasure. 
 
-Yet as they grew, Darkness too bloomed, Jealous of Light's beauty in all her creations, Darkness sought to corrupt her newest heirs. So the Faerie were born the first children of both Light and Dark. Agency to choose, to be swayed. Where there was love, there was hate. Where Darkness would also flourish, Light could be born.  
+Yet as the Faerie grew, Darkness too bloomed, Jealous of Light's beauty in all her creations, Darkness sought to corrupt her newest heirs. So the Faerie were born the first children of both Light and Dark. 
+
+Agency to choose, to be swayed. Where there was love, there was hate. The potential for both. Where Darkness would also flourish, Light could be born.  
 
 It was then the Goddess of Light and Darkness became one deity instead of two. Light had bonded with her mate. They together became the two-faced God. The parent of the Faerie. Not one complete but a mix of two. Forever the push and pull. 
 And then their last descendants arrived   The final creation and the worst of all … Man. 
