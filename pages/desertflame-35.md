@@ -1,10 +1,9 @@
 ---
 title: Deserters Flame
 ---
-take action, Thallan was certain the other Courts would not give them much
-choice.
-“You’re right, of course you’re right. I’m sorry you came with something
-on your mind”
+
+“You’re right, of course you’re right. I’m sorry you came with something on your mind.”
+
 Aeilre emerged from behind the screen, shaking herself free of the heavy
 thoughts. She was swept in silver and blue silks that clung to her delicate frame.
 Thallan glanced across her, every bit the ethereal beauty and grace of the High
