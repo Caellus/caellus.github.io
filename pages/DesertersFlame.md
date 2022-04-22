@@ -8,9 +8,11 @@ Long before the rise of man and a world that we would recognize there was a stor
 
 TEHLAEYA
 
-In the beginning, there was Darkness, black and endless. No light, no sound. There was nothing. Then out of the nothingness, a single spark. Different cultures argue why the flash came to be, but, all agree, this spark was the start. The start of Limeare. The Mother Light herself. The Light that started it all. She spread and spread pushing against the Darkness. Her brilliance marked the very beginning of time; the very essence of life began with her.
+In the beginning, there was Darkness, black and endless. No light, no sound. There was nothing. Then out of the nothingness, a single spark. 
 
-As Light emerged, she wished to no longer be alone and breathed life into her children. Light bore four sons, four kings who together combined their power and created Tehlaeya, the world where everything lives. The four sons who eventually became known as our seasons, Winter the firstborn, then Spring, Summer, and at last Autumn.
+Different cultures argue why the flash came to be, but, all agree, this spark was the start. The start of Limeare. The start of Mother Light herself. Light that started it all. She spread and spread pushing against the Darkness. Her brilliance marked the very beginning of time; the very essence of life began with her.
+
+As Light emerged, she longed to no longer be alone and breathed life into her children. Light bore four sons, four kings who together combined their power and created Tehlaeya, the world where everything lives. The four sons who eventually became known as our seasons, Winter the firstborn, then Spring, Summer, and at last Autumn.
 
 Light, then had four daughters, who created the two suns and two moons that surround Tehlaeya. They each brought brightness and heat that melted away the cold, and the Dark.
 
