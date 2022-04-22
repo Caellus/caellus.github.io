@@ -18,12 +18,12 @@ Light, then had four daughters, who created the two suns and two moons that surr
 
 Together the eight siblings' seasons and moons and suns changed the sky, bringing balance, the dawn and the dusk, versatility between each season brought beauty unlike anything seen before. Plants grew, and life sprouted blossoming beneath the heavens above. 
 
-Light loved her children and was delighted at their creation, but everything was still too quiet. Mother Light and her children yearned for other's company to enjoy their creation, so the Goddess created birds to fill the skies, fish to fill the seas and animals to cover the land. Beauty spread over Tehlaeya. But, it still wasn't enough, so, at last, Light bore a child unlike her others, she created the Dragon. 
+Light loved her children and was delighted at their creation, but everything was still too quiet. Mother Light and her children yearned for other's company to enjoy their creation, so the Goddess created birds to fill the skies, fish to fill the seas and animals to cover the land. Beauty spread over Tehlaeya. But, it still wasn't enough, so, at last, Light bore a child unlike her others, she created the Dragons. 
 
 Great beasts of the most elemental of magics, they were the Kings and Queens,
 Fire, Water, Earth, Air, Light, and Dark. Mischief, Beauty, Envy, Love and Chaos. They reigned over all for a time.
 
-The Dragons flourished, maintaining balance and ruled over Limeare's creation. At least that was how it all began until the Light had her final few children that changed everything....
+The Dragons flourished, maintaining balance and ruled over Limeare's creation. At least that was how it all began all balanced until Limeare once again longed to create and her final few children that changed everything....
 
 First came the Faerie, like their descendants before them, there were eight. Four males. And Four Females. 
 
