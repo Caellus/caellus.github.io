@@ -50,7 +50,8 @@ His voice was sickly sweet in its all but whisper. And my teeth grit so hard my 
 The words were a harsh bite, but he didn’t seem to mind. My eyes finally left the floor to give him one stiff nod. The anger sunk back deep into my chest, where it coiled tightly. I was expecting to be dismissed when another boy entered the station. He stood tall, perhaps a half-inch above my height; he had light chestnut brown hair that depending on the light, could’ve almost been confused for that of a dirty blond. He carried himself well, and beneath his white uniform, I could just make out a lean frame. What came off as odd to me was, I had never met or even seen him before. There were over a hundred boys in the out 6th-year unit alone, but over time we’d all gotten to know one another. Everyone was supposed to recognize one another; it was part of initiation training. Your unit was your home, your family; we all knew each other by now. But the boy who casually entered the sergeants' office was utterly new. The new initiate noticed my stare as light grey eyes met my own.
 
 “Ah, Peter, good’ve you to join us. Peter, meet Lance Gerrard, he will be your new room assignment”.
-For a full minute, I couldn’t seem to concentrate on anything except staring at the stranger. Though his face remained pleasant and relatively neutral, something in his eyes changed as he stared back at me. It seemed neither of us had been expecting this.
+
+For a full minute, I couldn’t seem to concentrate on anything except staring at the stranger. Though his face remained pleasant and relatively neutral, something in his eyes changed as he stared back at me. It seemed neither of us had been expecting this.
 
 “Sir, I already have a roommate-”
 Peter questioned, still not removing his gaze from mine. The Sergeant’s eyes twinkled in delight as he smiled. Cutting him off before he could further protest, Kestrel responded almost purring, and shivers crawled up my sides.
