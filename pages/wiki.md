@@ -18,5 +18,6 @@ Something I have been doing for a long time now is collecting [Rocks](rocks.html
 
 Other Fun Pages: 
 
-[Cat!](cat!.html)
+- Here you can see pictures of my new [Cat!](cat!.html)
  
+- I am a huge bookworm here are 
