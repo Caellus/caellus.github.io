@@ -20,4 +20,5 @@ Other Fun Pages:
 
 - Here you can see pictures of my new [Cat!](cat!.html)
  
-- I am a huge bookworm here are 
+- I am a huge bookworm here are [Book Recommendations](bookrecs.html) 
+
