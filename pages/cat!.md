@@ -34,6 +34,8 @@ Bo is a domestic shorthair ball of energy and volatile temprament. While I commo
 
 <img style="width:50%" src="images/windowwatching.jpeg" alt="Bo on his hind legs scouring through the window" />
 
+<img style="width:50%" src="images/blanket.jpeg" alt="Bo sleeping under a blanket" />
+
 
 
 
