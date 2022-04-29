@@ -1,14 +1,6 @@
 ---
 title: Wiki
 ---
-<!-- <style>  -->
-  <!-- body {
-  background-image: url(images/coffeebean.jpeg);
-  background-repeat:repeat; 
-  background-size: 10em;
-}
-/* *{color:#000;} */ -->
-<!-- </style> -->
 
 
 
