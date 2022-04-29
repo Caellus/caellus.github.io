@@ -2,18 +2,6 @@
 title: Home
 ---
 
-<!-- <style>
-body {
-  background-image: url(images/BO.jpeg);
-    background-size: 10em;
-      background-repeat:no-repeat; 
-
-
-
-}
-</style> -->
-
-<!-- ![piture of my cat](images/BO.jpeg)  -->
 <img style="width:50%" src="images/BO.jpeg" alt="picture of my cat" />
 
 

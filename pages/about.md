@@ -15,7 +15,7 @@ title: About
 }
 </style>
 
-<img style="width:50%" src="images/Me.jpeg" alt="little animated me" />
+<img style="width:30%" src="images/Me.jpeg" alt="little animated me" />
 
 ### Hi :3 
 My name is Cat, (she/her/they/ them). I am from the Bay Area however go to University at Temple on the East Coast.  
