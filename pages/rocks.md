@@ -47,6 +47,10 @@ I can't remember this stone's name but I love the color. Possibly Blue Calcite
 
 I don't know this one either ... makes me crazy 
 
+<img style="width:30%" src="images/bloodstone.jpeg" alt="blood stone" />
+
+Blood Stone (Heliotrope) - increase courage, motivation, and creative energy
+
 <img style="width:30%" src="images/calcite.jpeg" alt="some calcite" />
 
 <img style="width:30%" src="images/calcite2.jpeg" alt="some more calcite" />
@@ -171,9 +175,7 @@ Smoky Quartz - improving overall wellbeing, the release of unwanted emotional ba
 
 <img style="width:30%" src="images/tiger2.jpeg" alt="polished tigereye" />
 
-<img style="width:30%" src="images/tiger3.jpeg" alt="polished tigereye" />
-
-<img style="width:30%" src="images/tigerheart.jpeg" alt="polished tiger amethyst" />
+<img style="width:30%" src="images/tigerheart.jpeg" alt="heart-shaped polished tiger eye" />
 
 Polished Tiger Eye - focus the mind, promoting mental clarity, assisting us to resolve problems
 
