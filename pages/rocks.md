@@ -108,6 +108,7 @@ Labradorite" />
 Cut Piece of Labradorite- promote growth to our mental, emotional, spiritual, and physical healing
 
 <img style="width:30%" src="images/metior.jpeg" alt="small silver piece of a meteorite" />
+
 Small piece of a Meteorite! 
 
 <img style="width:30%" src="images/onyx1.jpeg" alt="polished and tumbled onyx" />
@@ -128,7 +129,7 @@ Tiny shard of firey Opal- helps to renew and bring balance as well as inspire cr
 
 <img style="width:30%" src="images/brownbead2.jpeg" alt="back of petrified wood bead" />
 
-<img style="width:30%" src="images/petwood.jpeg" alt="more petrified wood " />
+<img style="width:30%" src="images/petwood1.jpeg" alt="more petrified wood" />
 
 Pieces of petrified wood 
 
