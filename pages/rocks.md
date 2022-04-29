@@ -17,6 +17,7 @@ Also here is a link for a [tumbled rock identifier](http://rocktumbler.com/polis
 Here are some pictures from my rock collecton 
 
 <img style="width:30%" src="images/adventurite1.jpeg" alt="small tumbled green  adventurine" />
+
 Tumbled Green Adventurine - helps to comfort and heal - as well as promote good luck
 
 <img style="width:30%" src="images/amethyst.jpeg" alt="collection of amethyst clusters" />
@@ -52,8 +53,7 @@ I don't know this one either ... makes me crazy
 
 <img style="width:30%" src="images/calciteoval.jpeg" alt="a polished tumbled oval of calcite" />
 
-Here's a bunch of different pieces of calcite 
-Calcite can also absorb and transform negative energy
+Here's a bunch of different pieces of calcite - can also absorb and transform negative energy
 
 <img style="width:30%" src="images/citrine1.jpeg" alt="tumbled bit of citrine" />
 
