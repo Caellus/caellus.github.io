@@ -49,6 +49,8 @@ In all likeyhood I spent far more time than I should nose deep in books and deep
 
 - Winner's Trilogy by Marie Rutkoski 
 
+- Mercenaries and Magic series by Alessa Thorn
+
 Other good authors for Dark Romance or Fantasy  ... 
 
 - Rina Kent 
