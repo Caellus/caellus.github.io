@@ -6,13 +6,15 @@ title: Rocks
  
 Rocks have been a curiosity of mine for as long as I can remember, and to be fair quite a few of them are after all very pretty. But even outright appearence aside I've been really interested in their foundation, the processes in the environment that cause such different crystals. And I think in a way that beginning interest in asking why and how something forms and its make up is what lead me to my interets on Chemistry (more on that later).  
 
-My plan in this page is both to share pictures of the rocks I have collected because they're pretty :3 
-
-But also to share bits I have learned about them whether in their make up or in the capacities for energy and healing. 
+My plan in this page is both to share pictures of the rocks I have collected because they're pretty :3  And also to share bits I have learned about them whether in their make up or in the capacities for energy and healing. 
 
 *also just a note for the properties of the stones I list, please understand sources differ on crystal properties so I easily could be wrong* 
 
 Also here is a link for a [tumbled rock identifier](http://rocktumbler.com/polished-stones/)
+
+Another great source is the [crystal bible](https://www.amazon.com/Crystal-Bible-Judy-Hall/dp/1582972400) 
+
+I use this as well as various google sources to learn the properties of the stones and minerals. 
 
 Here are some pictures from my rock collecton 
 
