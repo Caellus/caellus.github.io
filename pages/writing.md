@@ -9,6 +9,8 @@ I am a writer, and by that I mean not a whole lot more than the literal definiti
 
 As of right now I am keeping my novels more private as I continue to work on them but here I can upload new projects, character names and ideas etc.
 
+Here is a great [character name generator](https://www.fantasynamegenerators.com)
+
 As of right now I am currently working on one of two novels. 
 
 - A Deserter's Flame 
