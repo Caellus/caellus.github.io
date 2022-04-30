@@ -14,6 +14,12 @@ As of right now I am currently working on one of two novels.
 - A Deserter's Flame 
 - The Four Who Brought it all Down 
 
+Before I start off on my process, as a writer just starting off, I take a lot of inspiration and guidance from other authors and books I love, three books/series in particular come to mind that fundamentally changed me and made me want to write. 
+
+- Throne of Glass Series by Sarah J. Maas
+- The City Center by Simone Pond
+- The Girl Who Could Fly by Victoria Forrester
+
 #### Process: 
 
 In terms of how I write, it really is somewhat of an unplanned mess XD 
