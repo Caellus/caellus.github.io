@@ -10,9 +10,9 @@ Bo is a domestic shorthair ball of energy and volatile temprament. While I commo
 
 Evil Little Cute Fiend 
 
-<img style="width:50%" src="images/adoption.jpeg" alt="Bo on adoption day" />
+<img style="width:50%" display: inline-block; src="images/adoption.jpeg" alt="Bo on adoption day" />
 
-<img style="width:50%" src="images/backpack.jpeg" alt="Bo sleeping atop my backpack" />
+<img style="width:50%" display: inline-block; src="images/backpack.jpeg" alt="Bo sleeping atop my backpack" />
 
 <img style="width:50%" src="images/bo_belly1.jpeg" alt="Bo showing off a very cute belly" />
 
