@@ -54,14 +54,23 @@ In all likeyhood I spent far more time than I should nose deep in books and deep
 Other good authors for Dark Romance or Fantasy  ... 
 
 - Rina Kent 
-- Skye Warren 
+
+- Skye Warren
+
 - L.J. Shen 
+
 - Amelia Wilde 
+
 - J.L. Beck 
-- Logan Fox 
+
+- Logan Fox
+
 - Tracy Loraine 
-- Meghan March 
+
 - L.P. Lovell 
+
 - Ivy Smoak 
+
 - K.F. Breene 
+
 - Piper Lawson 
