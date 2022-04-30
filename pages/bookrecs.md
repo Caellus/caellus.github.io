@@ -9,7 +9,7 @@ In all likeyhood I spent far more time than I should nose deep in books and deep
 - ANYTHING by Sarah J. Maas
 - ACOTAR 
 - Throne of Glass 
-- Crescent City Series 
+- Crescent City Series - *my favorite*
 
 - The City Center Triology by Simone Pond 
 
