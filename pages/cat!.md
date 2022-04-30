@@ -9,7 +9,7 @@ So first of all yes, my name is Cat, and yes I do also in fact have a cat. Back 
 Bo is a domestic shorthair ball of energy and volatile temprament. While I commonly warn folks not to be duped by his deceptive cuteness, I also feel like it's my civic duty to share adorable cat photos of my buddy so here you go!
 
 Evil Little Cute Fiend 
-
+ 
 <span>
   <img style="width:50%; display: inline-block;" src="images/adoption.jpeg" alt="Bo on adoption day" />
 
