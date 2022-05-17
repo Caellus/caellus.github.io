@@ -1,0 +1,35 @@
+!meta!
+title: About
+!meta!
+
+[style|
+  :root {
+    --background: hsl(0, 1%, 50%);
+    --text: #fff;
+    --highlight: hsl(10, 0%, 20%);
+  }
+  body {
+    background-image: url(images/coffeebean.jpeg);
+    background-repeat:repeat; 
+    background-size: 10em;
+  }
+]
+
+[img, style: "width:30%", src: "images/Me.jpeg", alt: "little animated me"|]
+
+[h3|Hi :3] 
+[p|My name is Cat, (she/her/they/ them). I am from the Bay Area however go to University at Temple on the East Coast.]  
+
+[p|I'm  not an occasional game dev and *enjoyer* of roguelikes, that said I am a writer, avid reader, student and in general just a relatively loud personality.]  
+
+[p|I enjoy various subjects whether it be science and reasoning or some wild fantasy. I am currently a Chemistry major and an English minor at Temple University.] 
+
+[p|Some other things you should know are simply I am not a techie person, I am good with books, and with people and often math, but not computers so this site is primarily based on what I have learned from others, meaning if it's buggy, my appologies ... maybe I know how to fix it? XD] 
+
+[p|[a, href: "https://github.com/Caellus/caellus.github.io"|Here's] the source code for this site]
+
+[h3|Contact me ...] 
+
+[p|Feel free to say hi on [a, href: "https://mastodon.lol/web/accounts/78714#"|mastodon] or my [a, href: "mailto:caelginsmith@gmail.com"|email]]
+
+ 
